@@ -1,1 +1,1 @@
-# webinar--13-10-2023
+Python tests for api https://petstore.swagger.io/#/pet/deletePet
